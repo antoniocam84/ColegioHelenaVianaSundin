@@ -38,6 +38,6 @@ h5{
     text-align: justify;
 }
 
-.lead,p{
+p.lead{
     text-align: justify;
 }
