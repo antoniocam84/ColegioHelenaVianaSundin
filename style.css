@@ -19,7 +19,7 @@ h1, h2, h5 {
 }
 
 .lead, .btn-link {
-    color: var(--cor-destaque);
+    color: white;
     font-weight: 700;
 }
 
