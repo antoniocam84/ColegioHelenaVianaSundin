@@ -21,7 +21,7 @@ h1, h2, h5 {
 .lead, .btn-link {
     color: black;
     font-weight: 700;
-    font-size: 35px;
+    
 }
 
 a, .btn-link:hover {
