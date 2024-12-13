@@ -46,7 +46,10 @@ p{
 }
 
 .centralizado {
+    text-align: center; /* Centraliza horizontalmente */
     
+    /* Centralização vertical, se necessário */
+    display: flex;
     justify-content: center; /* Centraliza horizontalmente no flexbox */
-    text-align: center;
+    align-items: center; /* Centraliza verticalmente no flexbox */
   }
