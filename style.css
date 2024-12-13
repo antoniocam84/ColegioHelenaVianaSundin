@@ -48,5 +48,5 @@ p{
 .centralizado {
     
     justify-content: center; /* Centraliza horizontalmente no flexbox */
-    
+    text-align: center;
   }
