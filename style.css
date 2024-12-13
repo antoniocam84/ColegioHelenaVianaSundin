@@ -33,11 +33,7 @@ body {
         filter: blur(8px); /* Definir o nível de desfoque */
         z-index: -1; /* Para a camada ficar atrás do conteúdo */
 
-        h1 {
-            color: white;
-            font-size: 3rem;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Adicionando sombra para melhorar a legibilidade */
-
+        
 
 h1, h2, h5 {
     color: var(--cor-secundaria);
