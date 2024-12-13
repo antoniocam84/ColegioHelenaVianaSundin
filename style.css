@@ -47,6 +47,7 @@ p{
 
 .centralizado {
     text-align: center; /* Centraliza horizontalmente */
+    font-size: 35px;
     
     /* Centralização vertical, se necessário */
     display: flex;
