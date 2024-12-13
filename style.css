@@ -54,3 +54,9 @@ p{
     justify-content: center; /* Centraliza horizontalmente no flexbox */
     align-items: center; /* Centraliza verticalmente no flexbox */
   }
+
+  img{
+
+    height: 300px;
+    left: 300px;
+  }
