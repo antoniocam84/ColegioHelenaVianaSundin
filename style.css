@@ -21,19 +21,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 
-    .blurred-background {
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background-image: url('caminho/para/sua/imagem.jpg');
-        background-size: cover;
-        background-position: center;
-        filter: blur(8px); /* Definir o nível de desfoque */
-        z-index: -1; /* Para a camada ficar atrás do conteúdo */
-
-        
 
 h1, h2, h5 {
     color: var(--cor-secundaria);
