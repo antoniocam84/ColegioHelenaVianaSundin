@@ -11,11 +11,7 @@ body {
     color: var(--cor-principal);
     background-color:#87CEEB;
 
-    body {
-        background-image: url('img/feira1.jpg);
-        background-size: cover; /* Faz com que a imagem cubra toda a tela */
-        background-position: center; /* Centraliza a imagem */
-        background-repeat: no-repeat; /* Impede que a imagem se repita */
+       
     }
 
    
